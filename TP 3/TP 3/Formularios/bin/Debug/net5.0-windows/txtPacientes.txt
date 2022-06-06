@@ -1,0 +1,120 @@
+Turnos de la fecha: 4/6/2022 11:20:38
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 8 - 9 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+
+Turnos de la fecha: 6/6/2022 00:05:10
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 11 - 12 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+
+Turnos de la fecha: 6/6/2022 00:06:14
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 11 - 12 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: lucas
+Apellido: diaz
+Dni: 12312
+Mail: lasduasid
+Telefono: 1231
+Fecha de la Consulta: 06/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 6/6/2022 00:06:56
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 11 - 12 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: lucas
+Apellido: diaz
+Dni: 12312
+Mail: lasduasid
+Telefono: 1231
+Fecha de la Consulta: 06/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Nutricion
+
+
+Turnos de la fecha: 6/6/2022 01:52:57
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 11 - 12 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: lucas
+Apellido: diaz
+Dni: 12312
+Mail: lasduasid
+Telefono: 1231
+Fecha de la Consulta: 06/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Nutricion
+
+
+Turnos de la fecha: 6/6/2022 01:58:14
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+
