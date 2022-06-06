@@ -12,6 +12,12 @@ namespace Archivos
     {
         protected abstract string Extension { get; }
 
+        /// <summary>
+        /// Método que se utiliza para validar la extensión de los archivos.
+        /// </summary>
+        /// <param name="extension"></param>
+        /// <returns></returns>
+        /// <exception cref="ExcepcionArchivos"></exception>
         public bool ValidarExtension(string extension)
         {
             if (Path.GetExtension(extension) != Extension)
