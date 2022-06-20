@@ -1,0 +1,584 @@
+Turnos de la fecha: 4/6/2022 11:20:38
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 8 - 9 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+
+Turnos de la fecha: 6/6/2022 00:05:10
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 11 - 12 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+
+Turnos de la fecha: 6/6/2022 00:06:14
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 11 - 12 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: lucas
+Apellido: diaz
+Dni: 12312
+Mail: lasduasid
+Telefono: 1231
+Fecha de la Consulta: 06/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 6/6/2022 00:06:56
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 11 - 12 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: lucas
+Apellido: diaz
+Dni: 12312
+Mail: lasduasid
+Telefono: 1231
+Fecha de la Consulta: 06/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Nutricion
+
+
+Turnos de la fecha: 6/6/2022 01:52:57
+-------------------------------------------
+
+Nombre: qwew
+Apellido: qweq
+Dni: 123123
+Mail: sdfsdf
+Telefono: 132123
+Fecha de la Consulta: 04/06/2022
+Horario: 11 - 12 hs
+Obra Social: Galeno
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: lucas
+Apellido: diaz
+Dni: 12312
+Mail: lasduasid
+Telefono: 1231
+Fecha de la Consulta: 06/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Nutricion
+
+
+Turnos de la fecha: 6/6/2022 01:58:14
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+
+Turnos de la fecha: 11/6/2022 01:14:34
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Nutricion
+
+
+Turnos de la fecha: 15/6/2022 13:44:10
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 20:30:51
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 20:35:27
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 20:39:00
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 22:02:37
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 22:04:21
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 22:05:25
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 22:06:23
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 22:12:26
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 15/6/2022 23:12:16
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+-------------------------------------------
+
+Nombre: aruuuuuuuu
+Apellido: aruuuuu
+Dni: 1231231
+Mail: ºasdioajoai
+Telefono: 123123
+Fecha de la Consulta: 11/06/2022
+Horario: 11 - 12 hs
+Obra Social: SwissMedical
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 16/6/2022 00:06:01
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+
+Turnos de la fecha: 16/6/2022 00:17:21
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+
+Turnos de la fecha: 16/6/2022 00:25:27
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: Luis
+Apellido: Ron
+Dni: 25874139
+Mail: luis@yahoo.com.ar
+Telefono: 1535464564
+Fecha de la Consulta: 16/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Traumatologia
+
+
+Turnos de la fecha: 16/6/2022 00:30:59
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: Luis
+Apellido: Ron
+Dni: 25874139
+Mail: luis@yahoo.com.ar
+Telefono: 1535464564
+Fecha de la Consulta: 16/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Traumatologia
+
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: Luis
+Apellido: Ron
+Dni: 25874139
+Mail: luis@yahoo.com.ar
+Telefono: 1535464564
+Fecha de la Consulta: 16/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Traumatologia
+
+-------------------------------------------
+
+Nombre: Martina
+Apellido: Ron
+Dni: 12313
+Mail: martina@gmail.com
+Telefono: 123123
+Fecha de la Consulta: 16/06/2022
+Horario: 8 - 9 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+
+Turnos de la fecha: 16/6/2022 00:31:26
+-------------------------------------------
+
+Nombre: Lucas
+Apellido: Diaz
+Dni: 12345678
+Mail: prueba@prueba.com
+Telefono: 112233665788999
+Fecha de la Consulta: 06/06/2022
+Horario: 9 - 10 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+-------------------------------------------
+
+Nombre: Luis
+Apellido: Ron
+Dni: 25874139
+Mail: luis@yahoo.com.ar
+Telefono: 1535464564
+Fecha de la Consulta: 16/06/2022
+Horario: 10 - 11 hs
+Obra Social: Galeno
+Consulta con: Traumatologia
+
+-------------------------------------------
+
+Nombre: Martina
+Apellido: Ron
+Dni: 12313
+Mail: martina@gmail.com
+Telefono: 123123
+Fecha de la Consulta: 16/06/2022
+Horario: 8 - 9 hs
+Obra Social: Osde
+Consulta con: Ginecologia
+
+
